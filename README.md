@@ -1,4 +1,4 @@
-# University Library Database
+
 
 This project designs and implements a relational database for a university library system to track books, authors, publishers, students, and employees.
 
@@ -31,3 +31,4 @@ Mapping table BOOK_AUTHOR for many-to-many relationship between books and author
 Table creation statements and sample insert statements are included for testing. Stored procedures could be added to encapsulate logic and enable easy querying.
 
 This database provides a way to store, track, and query all key entities and relationships for the university library system.
+
